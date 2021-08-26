@@ -1,4 +1,4 @@
-# 2D Tilemap Based Game 
+# The Maze Runner - A 2D Tilemap Based Game 
 
 A 2D tilemap based game inspired by the Maze Runner movie implemented in Java.
 
